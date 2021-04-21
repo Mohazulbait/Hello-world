@@ -1,0 +1,10 @@
+div {
+  width: 10rem;
+  background-color: blue;
+  border: 0.25rem;
+  height: 20rem;
+}
+h2,
+p {
+  color: white;
+}
