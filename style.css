@@ -8,3 +8,7 @@ h2,
 p {
   color: white;
 }
+.testing {
+  background: blue;
+  height: 4rem;
+}
