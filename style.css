@@ -11,4 +11,5 @@ p {
 .testing {
   background: blue;
   height: 4rem;
+  border: 2px solid black;
 }
